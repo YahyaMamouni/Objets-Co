@@ -23,4 +23,5 @@ Pour lancer le script, exécutez la commande :
 
 ## Remarque
 
-On a essayé d'ajouter le compteur à la partie de chiffrement, mais on a rencontré des problèmes.
+On a essayé d'ajouter le compteur à la partie de chiffrement, mais on a rencontré des problèmes. 
+Le chiffrement fonctionne, mais sans la partie du compteur.
